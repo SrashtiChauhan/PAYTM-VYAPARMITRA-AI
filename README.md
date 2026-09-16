@@ -449,8 +449,7 @@ To make the demonstration concrete, the prototype models a realistic Indian merc
 ---
 
 ## 21. License
-
-License information to be added.
+This project is licensed under the MIT License.
 
 ---
 
