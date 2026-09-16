@@ -1,0 +1,6 @@
+{
+  "name": "Paytm VyaparMitra AI",
+  "description": "Your AI Business Partner for Smarter Merchant Growth - AI-powered Merchant Growth Copilot for small Paytm merchants",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
